@@ -1,0 +1,25 @@
+{
+    "name": "Skillitronic.LeoECSLite.EcsSystemGroups.Tests.Editor",
+    "rootNamespace": "Skillitronic.LeoECSLite.EcsSystemGroups.Tests.Editor",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Skillitronic.LeoECSLite.EcsSystemGroups",
+        "Leopotam.EcsLite"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
