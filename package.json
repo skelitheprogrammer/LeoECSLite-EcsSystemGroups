@@ -1,0 +1,25 @@
+{
+  "name": "com.skillitronic.leoecssystemgroups",
+  "displayName": "LeoECS Lite EntityGroups",
+  "version": "0.0.1",
+  "description": "Group up systems in separate files",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "Skillitronic",
+    "Entity",
+    "Groups",
+    "ecs",
+    "Leopotam",
+    "LeoEcs",
+    "utility"
+  ],
+  "dependencies": {
+    "com.leopotam.ecslite": "2023.3.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
