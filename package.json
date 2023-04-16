@@ -1,6 +1,6 @@
 {
   "name": "com.skillitronic.leoecssystemgroups",
-  "displayName": "LeoECS Lite EntityGroups",
+  "displayName": "LeoECS Lite SystemGroups",
   "version": "0.0.2",
   "description": "Group up systems in separate files",
   "keywords": [
