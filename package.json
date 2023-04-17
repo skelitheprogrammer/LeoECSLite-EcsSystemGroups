@@ -16,7 +16,8 @@
     "utility"
   ],
   "dependencies": {
-    "com.leopotam.ecslite": "2023.3.22"
+    "com.leopotam.ecslite": "2023.3.22",
+    "com.skillitronic.leoecscommon": "0.0.1"
   },
   "repository": {
     "type": "git",
