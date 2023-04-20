@@ -1,7 +1,7 @@
 {
   "name": "com.skillitronic.leoecssystemgroups",
   "displayName": "LeoECS Lite SystemGroups",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Group up systems in separate files",
   "keywords": [
     "unity",
@@ -16,8 +16,7 @@
     "utility"
   ],
   "dependencies": {
-    "com.leopotam.ecslite": "2023.3.22",
-    "com.skillitronic.leoecscommon": "0.0.1"
+    "com.leopotam.ecslite": "2023.3.22"
   },
   "repository": {
     "type": "git",
